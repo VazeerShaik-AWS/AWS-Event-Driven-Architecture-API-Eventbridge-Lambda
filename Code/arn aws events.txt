@@ -1,0 +1,13 @@
+arn:aws:events:us-west-2:659750571925:event-bus/lab_event_bus
+
+
+https://tjm4jzbflb.execute-api.us-west-2.amazonaws.com
+
+
+arn:aws:execute-api:us-west-2:659750571925:a9pugw6mh1/*/$connect
+
+
+wss://a9pugw6mh1.execute-api.us-west-2.amazonaws.com/production/
+
+
+https://a9pugw6mh1.execute-api.us-west-2.amazonaws.com/production/@connections

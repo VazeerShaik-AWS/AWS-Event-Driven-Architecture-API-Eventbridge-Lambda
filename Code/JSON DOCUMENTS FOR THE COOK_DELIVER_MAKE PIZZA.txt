@@ -1,0 +1,46 @@
+JSON DOCUMENTS FOR THE CODE
+
+
+{
+  "detail": {
+    "item": {
+      "eventtype": ["make_pizza"]
+    }
+  }
+}
+
+
+
+-------------------------------------------------------------------------
+
+{
+  "detail": {
+    "item": {
+      "eventtype": ["cook_pizza"]
+    }
+  }
+}
+
+
+-------------------------------------------------------------------------
+{
+  "detail": {
+    "item": {
+      "eventtype": ["deliver_pizza"]
+    }
+  }
+}
+
+
+------------------------------------------------------------------------
+
+{
+  "detail": {
+    "item": {
+      "eventtype": ["make_pizza","cook_pizza","deliver_pizza"]
+    }
+  }
+}
+
+
+
