@@ -55,7 +55,7 @@ High scalability with no server management
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Vazeer Shaik**
 
