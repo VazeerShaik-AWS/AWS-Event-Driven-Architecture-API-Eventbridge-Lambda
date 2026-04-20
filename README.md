@@ -40,6 +40,7 @@ Designed a scalable and loosely coupled event-driven architecture on AWS using A
 ## Author
 
 **Vazeer Shaik**
+
 AWS Cloud Engineer
 
 ---
